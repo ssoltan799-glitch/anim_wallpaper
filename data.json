@@ -1,0 +1,16 @@
+{
+  "wallpapers": [
+    {
+      "id": 1,
+      "url": "https://picsum.photos/300/500"
+    },
+    {
+      "id": 2,
+      "url": "https://picsum.photos/300/501"
+    },
+    {
+      "id": 3,
+      "url": "https://picsum.photos/300/502"
+    }
+  ]
+}
