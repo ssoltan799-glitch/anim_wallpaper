@@ -1,1 +1,16 @@
-https://i.pinimg.com/control1/1200x/0c/4d/81/0c4d8193777a0753e22f7c4c84774aec.jpg
+{
+"wallpapers": [https://i.pinimg.com/control1/1200x/0c/4d/81/0c4d8193777a0753e22f7c4c84774aec.jpg{
+"wallpapers": [
+{
+"id": Int,
+"url": String
+}
+]
+}
+
+{
+"id": Int,
+"url": String
+}
+]
+}
