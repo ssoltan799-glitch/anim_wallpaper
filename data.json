@@ -1,6 +1,6 @@
 {
   "wallpapers": [
-    { "id": 1, "type": "image", "url": "https://i.pinimg.com/control1/1200x/0c/4d/81/0c4d8193777a0753e22f7c4c84774aec.jpg" },
+    { "id": 1, "type": "image", "url": "https://i.pinimg.com/control1/1200x/0c/4d/81/0c4d8193777a0753e22f7c4c84774aec.jpg"},
     { "id": 2, "type": "image", "url": "https://i.pinimg.com/1200x/7f/91/78/7f917892eb2681c836c268595a80634a.jpg" },
     { "id": 3, "type": "image", "url": "https://i.pinimg.com/1200x/68/0f/2e/680f2e4411e41f4a588b2dd66acbe7f1.jpg" },
     { "id": 4, "type": "image", "url": "https://i.pinimg.com/1200x/ab/bb/9f/abbb9f33911137a16fa8d5144e4aa1cd.jpg" },
